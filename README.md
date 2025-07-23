@@ -80,5 +80,12 @@ This project presents a **comprehensive analysis** and **interactive visualizati
 └── README.md
 ```
 
+## 📂 Project Visualization
 
 ![image alt](https://github.com/Ankita-Wasekar/Bank-Data-Visualization/blob/62d22651fa615c9dc763916231a7e8f6fac00dae/bank%20dataset1.png)
+
+
+
+
+
+![image alt](https://github.com/Ankita-Wasekar/Bank-Data-Visualization/blob/1014c5d4eac29c3585bf5b0b672aadcaa713ce66/bank%20dataset%202.png)
